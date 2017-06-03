@@ -6,4 +6,9 @@ public class Ejemplito {
 
 	}
 
+	public void a()
+	{
+		int a = 3;
+		a = a + 1;
+	}
 }
