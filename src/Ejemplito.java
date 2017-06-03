@@ -15,4 +15,9 @@ public class Ejemplito {
 		
 		return 54;
 	}
+	public void a()
+	{
+		int a = 3;
+		a = a + 1;
+	}
 }
