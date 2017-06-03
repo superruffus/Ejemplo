@@ -6,4 +6,13 @@ public class Ejemplito {
 
 	}
 
+	/**
+	 * 
+	 * @return
+	 */
+	public int b ()
+	{
+		
+		return 54;
+	}
 }
